@@ -2,7 +2,7 @@
 
 Aplicação web para cadastro e gerenciamento de tarefas com título, descrição e data. Projeto acadêmico desenvolvido para a disciplina de Programação Web.
 
-🔗 **[Acesse o projeto ao vivo](https://lauraacioly.github.io/Prog-Web-AV2/)**
+🔗 **[Acesse o projeto ao vivo](https://lauraacioly.github.io/cadastro-de-tarefas/)**
 
 ## 📌 Funcionalidades
 
